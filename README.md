@@ -6,20 +6,29 @@
 [![Translate on Crowdin](https://img.shields.io/static/v1?label=Translate&message=on%20Crowdin&logo=crowdin&style=flat-square)](https://crowdin.com/project/balkons-weaponmod-legacy)
 [![Sponsor me!](https://img.shields.io/github/sponsors/ThexXTURBOXx?logo=github&style=flat-square)](https://github.com/sponsors/ThexXTURBOXx)
 
-Expanded Armory: Legacy is a simple mod, it takes the tool materials from other mods and brings them to Balkon's WeaponMod: Legacy.  
-This is [HyperSpeeed](https://nmexis.me/)'s modernisation fork of
+Expanded Armory: Legacy Evil's Blood Edition is a mod, it takes the tool materials from other mods and brings them to Balkon's WeaponMod: Legacy.
+
+What sets this version appart is, Additional Support for Blood Magic, & Blood Arsanal.  Also a couple of other mods. 
+This is a Fork of
+[HyperSpeeed](https://nmexis.me/)'s modernisation fork of
 the [original project](https://github.com/mallrat208/ExpandedArmory).
 
 ## Why?
+Well two reasons, 1st I love Balkon's weapon Mod allways have, I play legacy and Beta Versions of minecraft just so I can install the original.
+Sadly Most of the files I used to own of all of the Original Balkon's Weapon mod are either corrupted beyond repair lost, or glitched to hell.
+I have never been satisfied with any weapon mod that is not Balkon's, Tinkers is great and all, but it just doesn't feel close to home enough for me.
+I love the smithing system in tinkers and if I could play tinkers without all the weapons and extra fluff, without it crashing on me I would.
 
-Rest in Pieces, Expanded Armory!  
-This project is meant as a homage to our good old friend: Expanded Armory.  
-Nine years ago (at the time of writing this it is beginning-2025), the mod was abandoned.
-As one of the two creators of Reforged, I wanted to pose a challenge to myself:  
-Directly port BWM and this gem of a mod to modern versions of Minecraft.
+Apart from that I was supper estatic to discover someone revived the project and ported it over to 1.7.10. (My favorite version of Minecraft to date) "Mostly because of Thaumcraft and Forbbiden magic"
+I was even glad that they added more weapon types to the mod with extra compatibilities with other mods.
 
-I am working full-time, so I can only dedicate a bit of my precious time to projects like this.  
-I hope you enjoy playing around with it!
+However sadly the mods I wanted to combine the most were left out. SO I have decided to learn Java and make my own fork of the mod.
+This repository is for my personal use, I do not care what you do with it, so long as the original Auther would be ok with it. 
+I plan on getting permision to upload my version to CurseForge and Modrinth at some point, however for now the few of you who do happen to see this I am Glad you found it.
+
+Currently this reposistory is fresh and has yet to implement any atchual changes. Have fun, and happy moding.
+
+the rest of this section is coppied from the original branch of this mod and Is not my work.
 
 Without anything further to say here, enjoy!
 
